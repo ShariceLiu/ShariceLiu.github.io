@@ -1,0 +1,7 @@
+font:
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
+
+font-family: 'ZCOOL XiaoWei', serif;
+
+color
